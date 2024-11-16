@@ -5,15 +5,15 @@
 ##	Python programming (Scratch to advance)
 ##	Data Analysis (Pandas NumPy)
 ##	Stats
-###	Descriptive,  Inferential and probablity
+- Descriptive,  Inferential and probablity
 ##	Machine Learning
-###	Supervised
-###	Unsupervised
+- Supervised
+- Unsupervised
 ##	Deep Learning (Neural Networks)
-###	ANN, CNN, RNN
+- ANN, CNN, RNN
 ##	Generative AI
-###	GPT, Fine tune, Smart Bots
-###	Deployment of AI models on AWS, Azure
+-	GPT, Fine tune, Smart Bots
+-	Deployment of AI models on AWS, Azure
 ****************************************************************************************************
 To go in corporate sector, two extra things are to be learnt
 SQL and PowerBi (Workshop)
