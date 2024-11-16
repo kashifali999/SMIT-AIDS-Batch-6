@@ -30,4 +30,4 @@
 - Kernal is like thread for pupets
 - Create python
 - file and type
-  `print(“Bismillah in python”)`
+- `print(“Bismillah in python”)`
