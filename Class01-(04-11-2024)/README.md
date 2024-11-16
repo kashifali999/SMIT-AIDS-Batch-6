@@ -1,19 +1,19 @@
 # Class 01 (04-11-2024)
 ##	What is Data Science.
 
-Outline of course
-•	Python programming (Scratch to advance)
-•	Data Analysis (Pandas NumPy)
-•	Stats
-o	Descriptive,  Inferential and probablity
-•	Machine Learning
-o	Supervised
-o	Unsupervised
-•	Deep Learning (Neural Networks)
-o	ANN, CNN, RNN
-•	Generative AI
-o	GPT, Fine tune, Smart Bots
-o	Deployment of AI models on AWS, Azure
+# Outline of course
+##	Python programming (Scratch to advance)
+##	Data Analysis (Pandas NumPy)
+##	Stats
+###	Descriptive,  Inferential and probablity
+##	Machine Learning
+###	Supervised
+###	Unsupervised
+##	Deep Learning (Neural Networks)
+###	ANN, CNN, RNN
+##	Generative AI
+###	GPT, Fine tune, Smart Bots
+###	Deployment of AI models on AWS, Azure
 ****************************************************************************************************
 To go in corporate sector, two extra things are to be learnt
 SQL and PowerBi (Workshop)
