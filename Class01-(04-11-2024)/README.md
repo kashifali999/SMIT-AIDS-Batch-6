@@ -29,5 +29,5 @@
 - JupyterNotebook run on browser
 - Kernal is like thread for pupets
 - Create python
--- file and type
+- file and type
   print(“Bismillah in python”)
