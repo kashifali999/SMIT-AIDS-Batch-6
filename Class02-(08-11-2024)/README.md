@@ -8,4 +8,4 @@
 - `Print multiple numbers`
 - `Print string and number`
 - Note : Python adds space automatically
-- 
+- Note : Place cursore in function barckets and press 'Shift + Tab' to see function signature
