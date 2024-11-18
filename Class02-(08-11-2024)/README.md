@@ -6,5 +6,6 @@
 - `Print multiple strings`
 - `Print single number`
 - `Print multiple numbers`
+- `Print string and number`
+- Note : Python adds space automatically
 - 
-
