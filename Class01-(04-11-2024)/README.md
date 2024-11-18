@@ -1,5 +1,5 @@
 # Class 01 (04-11-2024)
-##	What is Data Science.
+###	What is Data Science.
 
 # Outline of course
 ##	Python programming (Scratch to advance)
