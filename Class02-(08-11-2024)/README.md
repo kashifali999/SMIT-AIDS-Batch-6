@@ -3,8 +3,8 @@
 - Setting Anaconda environment
 - Shift + Enter to execute cell
 - `Print single string`
-- Print multiple strings
-- Print single number
-- Print multiple numbers
+- `Print multiple strings`
+- `Print single number`
+- `Print multiple numbers`
 - 
 
