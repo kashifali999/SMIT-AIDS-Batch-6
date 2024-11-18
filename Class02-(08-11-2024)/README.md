@@ -8,4 +8,7 @@
 - `Print multiple numbers`
 - `Print string and number`
 - Note : Python adds space automatically
-- Note : Place cursore in function barckets and press 'Shift + Tab' to see function signature
+- Note : Place cursore in function barckets and press Shift + Tab to see function signature
+- `Specify separator`
+- Note : Press Esc + 1 to switch cell type from Code to Markdown
+#### Data
