@@ -2,16 +2,16 @@
 ###	What is Data Science.
 
 # Outline of course
-##	Python programming (Scratch to advance)
-##	Data Analysis (Pandas NumPy)
-##	Stats
+###	Python programming (Scratch to advance)
+###	Data Analysis (Pandas NumPy)
+###	Stats
 - Descriptive,  Inferential and probablity
-##	Machine Learning
+###	Machine Learning
 - Supervised
 - Unsupervised
-##	Deep Learning (Neural Networks)
+###	Deep Learning (Neural Networks)
 - ANN, CNN, RNN
-##	Generative AI
+###	Generative AI
 -	GPT, Fine tune, Smart Bots
 -	Deployment of AI models on AWS, Azure
 ****************************************************************************************************
