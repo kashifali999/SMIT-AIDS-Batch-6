@@ -12,3 +12,11 @@
 - `Specify separator`
 - Note : Press Esc + 1 to switch cell type from Code to Markdown
 #### Data
+- Text
+- Number
+#### Data Types
+- Number
+  - Whole    :  integers  >>>  int
+  - Decimal  :  floats    >>>  float
+- Text
+    - 
