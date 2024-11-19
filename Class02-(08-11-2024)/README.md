@@ -28,5 +28,10 @@
 - Two ways of printing data type
   - `print(type(marks))`
   - `type(marks)`
+#### Naming Variables
+- Should not start with Number
+- No special character is allowed anywhere in variable name
+- Space is not allowed
+- Reserved words are not allowed
 #### Reserved words in Python
 - False, def, if, raise, None, del, import, return, True, elif, in, try, and, else, is, while, as, except, lambda, with, assert, finally, nonlocal, yield, break, for, not, class, form, or, continue, global, pass
