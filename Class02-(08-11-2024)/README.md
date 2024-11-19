@@ -40,4 +40,6 @@
 - `- (Subtraction)`
 - `* (Multiplication)`
 - `/ (Division)`
-- 
+- `% (Modolus)`
+- `= (Assignment)`
+  `// (Exponent)`
