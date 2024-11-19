@@ -25,4 +25,6 @@
 #### Variables
 - Make identifier to store values
 - Assign and re-assign values to identifier
-- 
+- Two ways of printing data type
+  - `print(type(marks))`
+  - `type(marks)`
