@@ -42,4 +42,4 @@
 - `/ (Division)`
 - `% (Modolus)`
 - `= (Assignment)`
-  `// (Exponent)`
+- `// (Exponent)`
