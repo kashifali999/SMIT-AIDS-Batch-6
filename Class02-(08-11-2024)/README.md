@@ -19,4 +19,10 @@
   - Whole    :  integers  >>>  int
   - Decimal  :  floats    >>>  float
 - Text
-    - 
+    - "Character / Word / Sentence / Paragraph"  :  Strings  >>>  str
+- Boolean    :  true / false  >>>  bool  (True / False)
+#### Print data and identify type
+#### Variables
+- Make identifier to store values
+- Assign and re-assign values to identifier
+- 
