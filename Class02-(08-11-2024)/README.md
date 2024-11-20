@@ -35,7 +35,7 @@
 - Reserved words are not allowed
 #### Reserved words in Python
 - False, def, if, raise, None, del, import, return, True, elif, in, try, and, else, is, while, as, except, lambda, with, assert, finally, nonlocal, yield, break, for, not, class, form, or, continue, global, pass
-### Arithmatic Operators : Mathematical operations
+#### Arithmatic Operators : Mathematical operations
 - `+ (Addition)`
 - `- (Subtraction)`
 - `* (Multiplication)`
@@ -43,12 +43,13 @@
 - `% (Modolous, tells remainder [divier, dividened, qoution, remainder])`
 - `** (Exponent)`
 - `// (floor division)`
-### Assignment Operator : Assign value to an identifier
+#### Assignment Operator : Assign value to an identifier
 - `= (Assignment Operator)`
-### Comparison Operators : Answers in boolean form
+#### Comparison Operators : Answers in boolean form
 - `== (Equal to)`
 - `!= (Not equal to)`
 - `> (Greater than)`
 - `< (Less than)`
 - `>= (Greater than or equal to)`
 - `<= (Less than or equal to)`
+### User Input
