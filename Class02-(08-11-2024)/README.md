@@ -59,4 +59,5 @@
 - Print type
 - Note : User's given input shall always be string data type either it is a number
 ### Type Casting
-
+- Single casting
+- Double casting
