@@ -67,3 +67,7 @@
 - `-=`
 - `*=`
 - `/=`
+### Assignment 01
+- Paste a Raw paragraph
+- Make all possible variables
+- Use type casting as required
