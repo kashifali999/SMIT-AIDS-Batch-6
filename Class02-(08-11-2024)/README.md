@@ -57,3 +57,6 @@
 - Assign Input function value to a variable
 - Print result
 - Print type
+- Note : User's given input shall always be string data type either it is a number
+### Type Casting
+
