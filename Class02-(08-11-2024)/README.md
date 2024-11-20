@@ -61,3 +61,5 @@
 ### Type Casting
 - Single casting
 - Double casting
+- Input and casting togeather
+- 
