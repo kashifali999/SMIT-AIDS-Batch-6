@@ -63,4 +63,7 @@
 - Double casting
 - Input and casting togeather
 ### Increament / Decreament Operators
-- 
+- `+=`
+- `-=`
+- `*=`
+- `/=`
