@@ -53,3 +53,7 @@
 - `>= (Greater than or equal to)`
 - `<= (Less than or equal to)`
 ### User Input
+- Input function
+- Assign Input function value to a variable
+- Print result
+- Print type
