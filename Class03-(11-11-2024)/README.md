@@ -11,3 +11,4 @@
 - Concatenation
 - Format
 - "F" format
+#### String indexing and slicing
