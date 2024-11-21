@@ -5,4 +5,4 @@
 - String is immutable (non changable)
 - Explore all functions of string `course.function()`
 - Explore all functions of number
-- 
+- Note : Press `Shift + Tab` to see signature
