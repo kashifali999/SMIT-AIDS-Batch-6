@@ -6,5 +6,8 @@
 - Explore all functions of string `course.function()`
 - Explore all functions of number
 - Note : Press `Shift + Tab` to see signature
-#### String concatenation
-- 
+#### String concatenation : joining
+#### String formating : 03 methods
+- Concatenation
+- Format
+- "F" format
