@@ -15,3 +15,17 @@
 - Indexing 012345678
 - Indexing -8-7-6-5-4-3-2-1
 #### Slicing : Sub string
+#### Python collections / Data structures
+- String
+- List
+- Tuple
+- Dictionary
+- Set
+#### List
+- []
+- many values
+- many type values
+- mutable
+- index
+- slice 
+- copy
