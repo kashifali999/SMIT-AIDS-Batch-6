@@ -6,3 +6,6 @@
 - insert(): insert a member at given index
 - extend(): adds a collection to list
 -      +  : concats to list
+#### Deleting a members from an existing list
+- del (works for whole python not only for list member)
+- 
