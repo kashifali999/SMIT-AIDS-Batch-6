@@ -7,5 +7,9 @@
 - extend(): adds a collection to list
 -      +  : concats to list
 #### Deleting a members from an existing list
-- del (works for whole python not only for list member)
-- 
+- del statement deletes parmanently via index
+- remove():  deletes parmanently via value
+- pop():    deletes parmanently from last index   
+              can delete a member from given index              
+              it returns deleted
+- clear()
